@@ -31,7 +31,7 @@ const config: Config = {
           from: { opacity: "0", transform: "translateY(8px)" },
           to: { opacity: "1", transform: "translateY(0)" },
         },
-        pulse-glow: {
+        "pulse-glow": {
           "0%, 100%": { boxShadow: "0 0 10px rgba(168,85,247,0.35)" },
           "50%": { boxShadow: "0 0 25px rgba(168,85,247,0.7)" },
         },
